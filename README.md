@@ -4,3 +4,7 @@ cara pakainya simple ges ya
 - download xampp/laragon
 - start
 
+# custom khodam nya
+- open khodam.php
+- langsung aja list khodamnya bisa kalian ganti
+- save
